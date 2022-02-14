@@ -4,6 +4,8 @@ import Colors from '../constants/Colors';
 const Styles = StyleSheet.create({
     container: {
         flex: 1,
+        padding:0,
+        margin:0,
     },
     rowView: {
         flexDirection: 'row',
